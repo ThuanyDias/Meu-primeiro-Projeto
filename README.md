@@ -40,6 +40,6 @@ e o momento em que voltei a sentir aquela sensação incrível de "eu consegui c
 ---
 
 ## 🔗 Deploy do projeto
-👉 https://thuanydias.github.io/Meu-primeiro-Projeto/
+👉 
 
 ---
