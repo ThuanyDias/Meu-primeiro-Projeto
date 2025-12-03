@@ -32,7 +32,7 @@ e o momento em que voltei a sentir aquela sensação incrível de "eu consegui c
 ## 📸 Prévia do projeto
 
 ### versão Mobile:
-!<img src="https://github.com/ThuanyDias/Meu-primeiro-Projeto/blob/master/Img/Mobile.png?raw=true" width=250px;>
+<img src="https://github.com/ThuanyDias/Meu-primeiro-Projeto/blob/master/Img/Mobile.png?raw=true" width=250px;>
 
 ### versão Desktop:
 <img src="https://github.com/ThuanyDias/Meu-primeiro-Projeto/blob/master/Img/Desktop.png?raw=true" height=450px>
